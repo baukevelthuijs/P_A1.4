@@ -3,8 +3,8 @@
 | Column 1 | Column 2 | Column 3 |
 | :- | :-: | -: |
 | Left Justified | Center | Right |
-| a | b | c |
-| 1 | 2 | 3 |
+| a | b | r |
+| 1 | 2 | 6 |
 
 # End of file.
 # </span>
